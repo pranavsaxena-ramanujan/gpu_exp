@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gpuExp</string>
+    <string name="press">Press</string>
+    <string name="run_on_gpu">Run on GPU</string>
+    <string name="matrix_multiplication_benchmark">Matrix Multiplication Benchmark</string>
+    <string name="cpu_java_vs_gpu_opencl_256_256">CPU (Java) vs GPU (OpenCL) — 256×256</string>
+    <string name="run_benchmark">Run Benchmark</string>
+    <string name="press_run_benchmark_to_start">Press Run Benchmark to start.</string>
+</resources>

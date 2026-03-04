@@ -1,0 +1,45 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# NDK/CMake build artifacts
+*.o
+*.a
+*.lib
+cmake-build-*/
+compile_commands.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build outputs
+*.apk
+*.aab
+*.so
+*.exe
+*.dll
+*.dylib
+
+# Editor/IDE
+.clangd
+.idea/
+*.swp
+*.swo
+*~
+
+# Gradle wrapper (optional)
+gradle/wrapper/gradle-wrapper.jar
+
